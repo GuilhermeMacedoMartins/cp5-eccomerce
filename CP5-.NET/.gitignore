@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+logs/
+appsettings.Local.json
+*.Backup.tmp
