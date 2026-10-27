@@ -8,12 +8,13 @@ API RESTful de e-commerce em **ASP.NET Core 8** com **Clean Architecture**, apli
 
 | Nome completo | RM |
 |---|---|
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
+| *Guilherme Macedo* | *562396* |
+| *Henrique Martins* | *563620* |
+| *Pedro Henrique* | *563405* |
 
 ## 🎬 Vídeo de demonstração
 
-**Link:** *(preencher antes da entrega — máximo 5 minutos)*
+**Link:** *https://youtu.be/jYpSBOnWD38?is=LQQxFnZelSTlu9aM*
 
 ---
 
